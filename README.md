@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 😊 It's Prantik here</h1>
-https://raw.githubusercontent.com/SaimonIslamPrantik/SaimonIslamPrantik/main/20240320_045919.png
+!(https://raw.githubusercontent.com/SaimonIslamPrantik/SaimonIslamPrantik/main/20240320_045919.png)
 
 <h3 align="center">I'm a student and learning programming and bash/shell scripting</h3>
 
