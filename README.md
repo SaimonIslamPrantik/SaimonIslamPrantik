@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python, Java, Bash, Powershell**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaimonIslamPrantik](https://github.com/SaimonIslamPrantik)
+- 👨‍💻 All of my projects are available at [github@SaimonIslamPrantik](https://github.com/SaimonIslamPrantik)
 
 - 💬 Ask me about **Bash, Shell**
 
