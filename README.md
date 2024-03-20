@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/saimonprantik" target="blank"><img src="https://img.shields.io/twitter/follow/saimonprantik?logo=twitter&style=for-the-badge" alt="saimonprantik" /></a> </p>
 
-- 🔭 I’m currently working on [Initial_Setups_Core](https://github.com/SaimonIslamPrantik/initial_setups_core)
+- 🔭 I’m currently on a break but check out [My Collection of Wallpapers](https://github.com/SaimonIslamPrantik/wallpapers)
 
 - 🌱 I’m currently learning **Python, Java, Bash, Powershell**
 
