@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimonislamprantik&show_icons=true&locale=en" alt="saimonislamprantik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimonislamprantik&" alt="saimonislamprantik" /></p>
+
+
+<div style= "float:right;">[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)</div>
