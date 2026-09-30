@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Bash, Shell**
 
-- 📫 How to reach me **Here's my mail :- mdsaimonislamprantik@gmail.com**
+- 📫 How to reach me **Here's my mail :- prantik.tuta.io**
 
 - ⚡ Fun fact **It is just my hobby**
 
