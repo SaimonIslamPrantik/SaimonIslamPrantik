@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 😊 It's Prantik here</h1>
 <img src="https://raw.githubusercontent.com/SaimonIslamPrantik/SaimonIslamPrantik/main/20240320_045919.png" width="90%"></img>
-<h3 align="center">I'm a student and learning programming and bash/shell scripting</h3>
+<h3 align="center">I'm a student who's learning programming and bash/shell scripting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimonislamprantik&label=Profile%20views&color=0e75b6&style=flat" alt="saimonislamprantik" /> </p>
 
